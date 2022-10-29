@@ -1,6 +1,6 @@
 # Howdy, this is where I store all my bugs ;)
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1593845/screenshots/14336250/media/e2eb963e738eeba7fead735cd98af94a.jpg" width="600" height="420" /
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1593845/screenshots/14336250/media/e2eb963e738eeba7fead735cd98af94a.jpg" width="600" height="420" />
      
 👋 Hi, I’m @dmcfaddengalway
 👀 I’m interested in technology and organisations making positive change in the world

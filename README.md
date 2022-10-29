@@ -1,32 +1,43 @@
-# Howdy, this is where I store all my bugs ;)
+# 🤠 Howdy
 
-<div id="header-text" align="left">
-  <p>Thanks for coming.</p>
-<div>
-<div id="header-photo" align="right">
-  <img src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="420" height="420"/>
+<div id="header-photo">
+  <img align="right" src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="420" height="420"/>
 </div>
 
+👋 Hi, I’m Daniel! <br /><br />
+👀 I’m interested in technology and organisations making positive change in the world. <br /><br />
+💬 Fun facts about me:
+- I am learning Spanish
+- After this [legendary tiktok](https://www.tiktok.com/@jamesmisg/video/7139096017277881606?lang=en) I am trying new corn recipes
+- Learning RxJS <br />
+
+---
+
+<div id="badges" align="center">
+  <h3>Give me a follow</h3>
+  <a href="[https://www.guthub.com//daniel-mcfadden/](https://github.com/dmcfaddengalway)">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-mcfadden/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/dmcfaddengalway">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <br />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+</div>
+
+
+---
+                                                                                                                             
+<details>
+  <summary><b>⚡️ GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dmcfaddengalway&theme=radical"/>
+</details>
+<details>
+  <summary><b>🤫 Unlease a secret</b></summary>
+  <p>This is where I hide my all of my 🪲🦟🐞. Say hi! They don't bite.</p>
+</details>
+
 <!-- <img align="right" src="https://cdn.dribbble.com/users/1593845/screenshots/14336250/media/e2eb963e738eeba7fead735cd98af94a.jpg" width="600" height="420" /> -->
-     
-👋 Hi, I’m @dmcfaddengalway <br />
-👀 I’m interested in technology and organisations making positive change in the world <br />
-🌱 I’m currently learning Spanish, how to keep a Montsera alive, and RxJS <br />
-📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/daniel-mcfadden/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bd4Nl9blrSFe%2FbXICR9T74g%3D%3D) <br />
-
-< br />
-
-[![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmcfaddengalway&theme=radical)](https://github.com/dmcfaddengalway)
-
-
-<!-- <a href="https://github.com/dmcfaddengalway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcfaddengalway" />
-</a>
-<a href="https://github.com/dmcfaddengalway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmcfaddengalway" />
-</a> -->
-
-<!---
-dmcfaddengalway/dmcfaddengalway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

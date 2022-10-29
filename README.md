@@ -7,16 +7,17 @@
 👋 Hi, I’m Daniel! <br /><br />
 👀 I’m interested in technology and organisations making positive change in the world. <br /><br />
 💬 Fun facts about me:
-- I am learning Spanish
-- After this [legendary tiktok](https://www.tiktok.com/@jamesmisg/video/7139096017277881606?lang=en) I am trying new corn recipes
+- I am learning Spanish -- currently at an A2 level.
+- I am trying new corn recipes after this [legendary tiktok](https://www.tiktok.com/@jamesmisg/video/7139096017277881606?lang=en)
 - Learning RxJS <br />
 
 ---
 
 <div id="badges" align="center">
-  <h3>Give me a follow</h3>
-  <a href="[https://www.guthub.com//daniel-mcfadden/](https://github.com/dmcfaddengalway)">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" alt="LinkedIn Badge"/>
+  <h3>Give me a shout</h3>
+  <br />
+  <a href="https://github.com/dmcfaddengalway">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/daniel-mcfadden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,7 +33,7 @@
 ---
                                                                                                                              
 <details>
-  <summary><b>⚡️ GitHub Profile Stat</b></summary>
+  <summary><b>⚡️ Daniel's GitHub Stats</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dmcfaddengalway&theme=radical"/>
 </details>
 <details>

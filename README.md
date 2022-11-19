@@ -5,7 +5,7 @@
 </div>
 
 👋 Hi, I’m Daniel! <br /><br />
-👀 I’m interested in technology and organisations making positive change in the world. <br /><br />
+👀 I’m interested in technology and organisations making a positive change in the world. <br /><br />
 💬 Fun facts about me:
 - I am learning Spanish -- currently at an A2 level.
 - I am trying new corn recipes after this [legendary tiktok](https://www.tiktok.com/@jamesmisg/video/7139096017277881606?lang=en).

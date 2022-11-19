@@ -23,6 +23,9 @@
   <a href="https://twitter.com/dmcfaddengalway">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="[https://www.linkedin.com/in/daniel-mcfadden/](https://keybase.io/fruitydanimals)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&label=Keybase" alt="Keybase Badge"/>
+  </a>
   <br />
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="Visitor Badge"/>
 </div>

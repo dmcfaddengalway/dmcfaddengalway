@@ -17,9 +17,6 @@
 <div id="badges" align="center">
   <h3>Give me a shout:</h3>
   <br />
-  <a href="https://github.com/dmcfaddengalway">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/daniel-mcfadden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

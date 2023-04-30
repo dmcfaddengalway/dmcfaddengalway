@@ -13,25 +13,6 @@
 - Expanding my portfolio with fun projects ranging from designing an app, to making organisational templates, to redesigning popular sites
 
 ---
-
-<div id="badges" align="center">
-  <h3>Give me a shout:</h3>
-  <br />
-  <a href="https://www.linkedin.com/in/daniel-mcfadden/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/dmcfaddengalway">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/daniel-mcfadden/](https://keybase.io/fruitydanimals)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&label=Keybase" alt="Keybase Badge"/>
-  </a>
-  <br />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="Visitor Badge"/>
-</div>
-
-
----
                                                                                                                              
 <details>
   <summary><b>⚡️ Daniel's GitHub Stats</b></summary>

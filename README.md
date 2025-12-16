@@ -1,7 +1,7 @@
 # 🤠 Howdy
 
 <div id="header-photo">
-  <img align="right" src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="450" height="500"/>
+  <img align="right" src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="400" height="500"/>
 </div>
 
 👋 Hi, I’m Daniel! <br /><br />
